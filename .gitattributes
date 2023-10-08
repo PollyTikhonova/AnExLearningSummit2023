@@ -1,1 +1,2 @@
+*.html filter=lfs diff=lfs merge=lfs -text
 reports/interactive_per_year.html filter=lfs diff=lfs merge=lfs -text
